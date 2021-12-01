@@ -1,0 +1,41 @@
+body {
+   background: white;
+}
+.showall {
+   position: relative;
+   top: 5px;
+   right: 20px;
+ border: none;
+ outline: none;
+   float: right;
+}
+.box1 {
+   margin-top: 40px;
+   margin-bottom: 30px;
+   border: ;
+   background-color: lightskyblue;
+   border-radius: 10px;
+}
+ul {
+   color: blue;
+
+}
+.box2 {
+  margin-top: 40px;
+   font-size: x-small
+}
+.box3 {
+   border:;
+   margin-top: 50px;
+   font-size: small;
+}
+.rainbow {
+   float: left;
+   width: 100%;
+}
+.forest {
+   width: 100%;
+}
+h6 {
+   font-size: small;
+}

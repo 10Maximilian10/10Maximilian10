@@ -1,0 +1,70 @@
+body {
+  background-color: white;
+}
+.showall {
+  position: relative;
+  top: 20px;
+  right: 20px;
+  border: none;
+ outline: none;
+   float: right;
+}
+.box1 {
+  margin-top: 40px;
+  margin-bottom: 30px;
+  border: ;
+  background-color: lightskyblue;
+  border-radius: 10px;
+}
+.allsocials {
+  font-size: xx-small;
+}
+.instagrampng  {
+  width: 50px;
+  position: relative;
+  right: -15%;
+}
+.instagram {
+  position: relative;
+  right: -37%;
+  background-color:hotpink;
+  border-radius: 5px;
+  top: -10px;
+  box-shadow: 1px 1px 8px;
+}
+.tiktok1 {
+  width: 50px;
+  position: relative;
+  right: -40%;
+  
+}
+.tiktok {
+  position: relative;
+  right: -18%;
+  top: 20px;
+  background:grey;
+  border-radius: 5px;
+  box-shadow: 1px 1px 8px;
+}
+.youtube1 {
+  width: 50px;
+  position: relative;
+  right: -40%;
+}
+.youtube2 {
+  position:relative;
+  right: -18%;
+  top: -10px;
+  background-color: red;
+  border-radius: 5px;
+  box-shadow: 1px 1px 8px;
+}
+.all1 {
+  
+  border: hidden;
+  width: 100%;
+  height: 100%;
+  box-shadow: 1px 1px 8px;
+  background-image: url("cloakscloud.png");
+  border-radius: 30px;
+}

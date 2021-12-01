@@ -1,0 +1,38 @@
+body {
+    background-color: white;
+}
+.showall {
+    position: relative;
+    top: 20px;
+    right: 20px;
+    border: none;
+   outline: none;
+     float: right;
+  }
+  .box1 {
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border:hidden ;
+    background-color: lightskyblue;
+    border-radius: 10px;
+  }
+  .michele {
+      margin-top:25px;
+      width: 100%;
+      border-radius: 20px;
+      box-shadow: 1px 1px 8px  ;
+transition: ease-in-out 0.5s;
+      
+  }
+
+  .box3 {
+/* From https://css.glass */
+background: #ffffff10;
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(12px);
+-webkit-backdrop-filter: blur(12px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+   
+    
+  }
