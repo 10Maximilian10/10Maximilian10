@@ -39,13 +39,13 @@ body {
 .tiktok1 {
   width: 50px;
   position: relative;
-  right: -70px;
+  right: -80px;
   top: 1px;
   
 }
 .tiktok {
   position: relative;
-  right: 65px;
+  right: 80px;
   top: 35px;
   background:grey;
   border-radius: 5px;
@@ -55,7 +55,7 @@ body {
 .youtube1 {
   width: 50px;
   position: relative;
-  right: -75px;
+  right: -85px;
   top: 10px;
 }
 .youtube2 {
