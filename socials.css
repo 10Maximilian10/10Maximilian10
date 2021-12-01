@@ -22,11 +22,11 @@ body {
 .instagrampng  {
   width: 50px;
   position: relative;
-  float:left;
+ 
 }
 .instagram {
   position: relative;
-  float:left;
+ 
   background-color:hotpink;
   border-radius: 5px;
   top: -10px;
@@ -35,12 +35,12 @@ body {
 .tiktok1 {
   width: 50px;
   position: relative;
-  float:left;
+ 
   
 }
 .tiktok {
   position: relative;
-  float:left;
+ 
   top: 20px;
   background:grey;
   border-radius: 5px;
@@ -49,11 +49,11 @@ body {
 .youtube1 {
   width: 50px;
   position: relative;
-  float:left;
+ 
 }
 .youtube2 {
   position:relative;
-  float:left;
+ 
   top: -10px;
   background-color: red;
   border-radius: 5px;
