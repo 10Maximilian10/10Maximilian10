@@ -15,6 +15,7 @@ body {
    border: ;
    background-color: lightskyblue;
    border-radius: 10px;
+   font-size: larger;
 }
 ul {
    color: blue;
