@@ -31,6 +31,7 @@ body {
   border-radius: 5px;
   top: -10px;
   box-shadow: 1px 1px 8px;
+  font-size: large;
 }
 .tiktok1 {
   width: 50px;
@@ -46,6 +47,7 @@ body {
   background:grey;
   border-radius: 5px;
   box-shadow: 1px 1px 8px;
+  font-size: large;
 }
 .youtube1 {
   width: 50px;
@@ -59,6 +61,7 @@ body {
   background-color: red;
   border-radius: 5px;
   box-shadow: 1px 1px 8px;
+  font-size: large;
 }
 .all1 {
   
